@@ -22,10 +22,10 @@
 &nbsp;&nbsp;&nbsp;&nbsp;:lemon: [My CSS Journey](https://mhowe.dev/html-css-rainforest-safari/)
 
 
-### Skills
-`Accessible`, `Responsive`, `Mobile-first` `Design` <br>
-`Agile Web Development` `Jira` `HTML` `CSS` <br>
-`SCSS` `ITCSS` `SVG` `CSS Grid` `Flexbox` <br>
-`Ruby` `Rails` `REST` `CRUD` <br>
-`CSS Animation` `Next.js` <br>
+<br>
+
+### Practices
+`Accessible` `Responsive` `Mobile-First` `Design` `Jira` <br>
+`Agile Web Development` `The Best Ones` `Semantic`
+
 
