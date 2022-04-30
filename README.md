@@ -9,11 +9,14 @@
 
 <br>
 
-#### Current Projects
+#### Projects
 
 &nbsp;&nbsp;&nbsp;&nbsp;:green_apple: [Live Demo](https://youtube.com/embed/SFxVsFiVKoA?start=264&ecver=1) of my `RESTful` `CRUD` app, _Run Rabbit Run_ --> _a tongue-in-cheek, mildly existential experience_
 
-&nbsp;&nbsp;&nbsp;&nbsp;:green_apple: [Javascript AlgoLadder](https://github.com/howema/algorithm-ladder-js#readme): _seeing way too much of `Javascript` get over my breakup with `Ruby`_
+&nbsp;&nbsp;&nbsp;&nbsp;:green_apple: Team projects --> Javascript, Jira, Agile Web Development
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [A Vanilla JS API app](https://github.com/howema/apprenticeship-sparkjoke) (Completed)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Apprenticeship Capstone app](https://github.com/sparkbox/team-availability): (Ongoing) Team Availability app utilizing `Next.js` and extensive `SCSS` for future use at _Sparkbox_
 
+&nbsp;&nbsp;&nbsp;&nbsp;:green_apple: [Codepen trials & triumphs](https://codepen.io/howema): always `accessible` `responsive` `mobile-first` design; often `SCSS` & `ITCSS`, sometimes 'SVG's, 'CSS Grid' and/or `Flexbox`, & animations
 
-&nbsp;&nbsp;&nbsp;&nbsp;:green_apple: [`HTML` `CSS` love affair](https://codepen.io/howema/pen/wvpovdx) --> `accessible` `responsive` `mobile-first` design + [A CSS Series in 20 Parts](https://github.com/howema/html-css-rainforest-safari#readme)
+&nbsp;&nbsp;&nbsp;&nbsp;:green_apple: [A CSS Series in 20 Parts](https://mhowe.dev/html-css-rainforest-safari/): live documentation of teaching myself CSS from the ground up
