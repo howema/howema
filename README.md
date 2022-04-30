@@ -13,9 +13,9 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;:black_medium_square: [Live Rails Demo](https://youtube.com/embed/SFxVsFiVKoA?start=264&ecver=1) of _Run Rabbit Run_: a tongue-in-cheek, mildly existential experience
 
-&nbsp;&nbsp;&nbsp;&nbsp;:black_medium_square: [Team Vanilla JS API App](https://github.com/howema/apprenticeship-sparkjoke) (Completed)  <br>
+&nbsp;&nbsp;&nbsp;&nbsp;:black_medium_square: [Team Vanilla JS API App](https://github.com/howema/apprenticeship-sparkjoke)
 
-&nbsp;&nbsp;&nbsp;&nbsp;:black_medium_square: [Team Apprenticeship Capstone Project](https://github.com/sparkbox/team-availability): (Ongoing) Team Availability app for future use at _Sparkbox_
+&nbsp;&nbsp;&nbsp;&nbsp;:black_medium_square: [Team Apprenticeship Capstone Project](https://github.com/sparkbox/team-availability): Team Availability app for future use at _Sparkbox_ (in progress)
 
 &nbsp;&nbsp;&nbsp;&nbsp;:black_medium_square: [Codepen Trials & Triumphs](https://codepen.io/howema)
 
@@ -23,7 +23,7 @@
 
 
 ## Skills
-`Accessible`, `Responsive`, `Mobile-first` design
+`Accessible`, `Responsive`, `Mobile-first` `Design`
 `Agile Web Development` `Jira`
 `Ruby` `Rails` `REST` `CRUD`
 `SCSS` `ITCSS` `SVG` `CSS Grid` `Flexbox`
