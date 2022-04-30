@@ -1,6 +1,6 @@
 
-### **Welcome Friend** :wave:
-#### I'm Meg, **_Full-Stack Apprentice_** at :zap:[Sparkbox](https://sparkbox.com/)
+## **Welcome Friend** :wave:
+#### I'm Meg, current **_Full-Stack Apprentice_** at :zap:[Sparkbox](https://sparkbox.com/)
 
 &nbsp;&nbsp;&nbsp;&nbsp;:black_medium_square: Previous  **_Teaching Assistant_** at [Actualize Coding Bootcamp](https://anyonecanlearntocode.com/)
 
@@ -9,13 +9,13 @@
 
 <br>
 
-#### Projects
+## Points of Interest
 
 &nbsp;&nbsp;&nbsp;&nbsp;:black_medium_square: [Live Demo](https://youtube.com/embed/SFxVsFiVKoA?start=264&ecver=1) of my `RESTful` `CRUD` app, _Run Rabbit Run_ --> _a tongue-in-cheek, mildly existential experience_
 
 &nbsp;&nbsp;&nbsp;&nbsp;:black_medium_square: Team projects --> Javascript, Jira, Agile Web Development <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:black_small_square: [A Vanilla JS API app](https://github.com/howema/apprenticeship-sparkjoke) (Completed)  <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:black_small_square: [Apprenticeship Capstone app](https://github.com/sparkbox/team-availability): (Ongoing) Team Availability app utilizing `Next.js` and extensive `SCSS` for future use at _Sparkbox_
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:black_small_square: [A Vanilla JS API app](https://github.com/howema/apprenticeship-sparkjoke) (Completed)  <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:black_small_square: [Apprenticeship Capstone app](https://github.com/sparkbox/team-availability): (Ongoing) Team Availability app utilizing `Next.js` and extensive `SCSS` for future use at _Sparkbox_
 
 &nbsp;&nbsp;&nbsp;&nbsp;:black_medium_square: [Codepen trials & triumphs](https://codepen.io/howema): always `accessible` `responsive` `mobile-first` design; often `SCSS` & `ITCSS`, sometimes 'SVG's, 'CSS Grid' and/or `Flexbox`, & animations
 
