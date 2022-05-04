@@ -15,7 +15,7 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;:lemon: [Team Vanilla JS API App](https://github.com/howema/apprenticeship-sparkjoke)
 
-&nbsp;&nbsp;&nbsp;&nbsp;:lemon: [Team Apprenticeship Capstone Project](https://github.com/sparkbox/team-availability): Team Availability app for future use at _Sparkbox_ (in progress)
+&nbsp;&nbsp;&nbsp;&nbsp;:lemon: [Team Apprenticeship Capstone Project](https://fellowship-availability.netlify.app/): Team Availability app for future use at _Sparkbox_ [in progress](https://github.com/sparkbox/team-availability)
 
 &nbsp;&nbsp;&nbsp;&nbsp;:lemon: [Codepen Trials & Triumphs](https://codepen.io/howema)
 
