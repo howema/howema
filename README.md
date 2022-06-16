@@ -1,10 +1,10 @@
 
-# **Welcome Friend** :wave: I'm Meg
-&nbsp;&nbsp;&nbsp;&nbsp;:lemon: Current **_Full-Stack Apprentice_** at :zap:[Sparkbox](https://sparkbox.com/)
+# **Welcome** :wave: I'm Meg. Here's a few previous hats:
+&nbsp;&nbsp;&nbsp;&nbsp;:lemon: **_Full-Stack Apprentice_** at [Sparkbox](https://sparkbox.com/)
 
-&nbsp;&nbsp;&nbsp;&nbsp;:lemon: Previous  **_Teaching Assistant_** at [Actualize Coding Bootcamp](https://anyonecanlearntocode.com/)
+&nbsp;&nbsp;&nbsp;&nbsp;:lemon: **_Dev Teaching Assistant_** at [Actualize Coding Bootcamp](https://anyonecanlearntocode.com/)
 
-&nbsp;&nbsp;&nbsp;&nbsp;:lemon: Previous **_Antarctic Support Contractor_** for [The United States Antarctic Program](https://www.usap.gov/)
+&nbsp;&nbsp;&nbsp;&nbsp;:lemon: **_Antarctic Support Contractor_** for [The United States Antarctic Program](https://www.usap.gov/)
 
 
 <br>
@@ -15,7 +15,7 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;:lemon: [Team Vanilla JS API App](https://github.com/howema/apprenticeship-sparkjoke)
 
-&nbsp;&nbsp;&nbsp;&nbsp;:lemon: [Team Apprenticeship Capstone Project](https://fellowship-availability.netlify.app/): Team Availability app for future use at _Sparkbox_ [in progress](https://github.com/sparkbox/team-availability)
+&nbsp;&nbsp;&nbsp;&nbsp;:lemon: [Team Apprenticeship Capstone Project](https://fellowship-availability.netlify.app/): Team Availability app for future use at _Sparkbox_ (https://github.com/sparkbox/team-availability)
 
 &nbsp;&nbsp;&nbsp;&nbsp;:lemon: [Codepen Trials & Triumphs](https://codepen.io/howema)
 
