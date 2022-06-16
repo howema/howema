@@ -1,5 +1,5 @@
 
-# **Welcome** :wave: I'm Meg. Here's a few previous hats:
+# **Welcome** :wave: I'm Meg
 &nbsp;&nbsp;&nbsp;&nbsp;:lemon: **_Full-Stack Apprentice_** at [Sparkbox](https://sparkbox.com/)
 
 &nbsp;&nbsp;&nbsp;&nbsp;:lemon: **_Dev Teaching Assistant_** at [Actualize Coding Bootcamp](https://anyonecanlearntocode.com/)
