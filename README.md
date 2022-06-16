@@ -22,7 +22,6 @@
 &nbsp;&nbsp;&nbsp;&nbsp;:lemon: [My CSS Journey](https://mhowe.dev/html-css-rainforest-safari/)
 
 
-<br>
 
 ### Practices
 `Accessible` `Responsive` `Mobile-First` `Design` `Jira` <br>
