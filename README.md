@@ -13,7 +13,7 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;:lemon: [Capstone Live Rails Demo](https://youtube.com/embed/SFxVsFiVKoA?start=264&ecver=1) of _Run Rabbit Run_: a tongue-in-cheek, mildly existential experience
 
-&nbsp;&nbsp;&nbsp;&nbsp;:lemon: [An Epic CSS Journey](https://mhowe.dev/html-css-rainforest-safari/): deployment of my _[Rainforest Safari]_ project(https://github.com/howema/html-css-rainforest-safari#welcome-to-rainforest-safari)
+&nbsp;&nbsp;&nbsp;&nbsp;:lemon: [An Epic CSS Journey](https://mhowe.dev/html-css-rainforest-safari/): deployment of my [_Rainforest Safari_] project(https://github.com/howema/html-css-rainforest-safari#welcome-to-rainforest-safari)
 
 &nbsp;&nbsp;&nbsp;&nbsp;:lemon: [Team Vanilla JS API App](https://github.com/howema/apprenticeship-sparkjoke)
 
